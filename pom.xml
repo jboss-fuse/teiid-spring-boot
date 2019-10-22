@@ -25,7 +25,7 @@
 
   <groupId>org.teiid</groupId>
   <artifactId>teiid-spring-boot-starter-parent</artifactId>
-  <version>1.2.1-SNAPSHOT</version>
+  <version>1.2.1.fuse-750012</version>
   <packaging>pom</packaging>
   <name>teiid-spring-boot-starter-parent</name>
   <url>http://teiid.org</url>
@@ -118,7 +118,7 @@
     <!-- Project Dependencies -->
     <spring-boot.version>2.1.7.RELEASE</spring-boot.version>
     <spring-social.version>1.1.6.RELEASE</spring-social.version>
-    <teiid.version>12.3.0</teiid.version>
+    <teiid.version>12.3.1.fuse-750015</teiid.version>
     <version.xml-apis>1.4.01</version.xml-apis>
     <ObjectStoreEnvironmentBean.objectStoreDir>${build.dir}</ObjectStoreEnvironmentBean.objectStoreDir>
     <hibernate.version>5.3.10.Final</hibernate.version> <!-- Matching with OpenShift SB as it updates it -->
